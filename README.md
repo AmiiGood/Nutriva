@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-  <img src="./public/banner.jpeg" alt="Nutriva" width="400" />
+  <img src="./public/banner.jpeg" alt="Nutriva" width="600" />
 </div>
 
 **Sistema clínico para nutriólogos modernos**
