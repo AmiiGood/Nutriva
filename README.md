@@ -3,16 +3,7 @@
 <br />
 
 <div align="center">
-
-```
-███╗   ██╗██╗   ██╗████████╗██████╗ ██╗██╗   ██╗ █████╗
-████╗  ██║██║   ██║╚══██╔══╝██╔══██╗██║██║   ██║██╔══██╗
-██╔██╗ ██║██║   ██║   ██║   ██████╔╝██║██║   ██║███████║
-██║╚██╗██║██║   ██║   ██║   ██╔══██╗██║╚██╗ ██╔╝██╔══██║
-██║ ╚████║╚██████╔╝   ██║   ██║  ██║██║ ╚████╔╝ ██║  ██║
-╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝
-```
-
+  <img src="./public/banner.jpeg" alt="Nutriva" width="400" />
 </div>
 
 **Sistema clínico para nutriólogos modernos**
@@ -37,16 +28,16 @@ Nutriva es una plataforma web diseñada para que los nutriólogos gestionen su p
 
 ## ✦ Funcionalidades
 
-| Módulo | Descripción |
-|--------|-------------|
-| 🧑‍⚕️ **Pacientes** | Expediente digital completo con historial, datos de contacto y objetivos |
-| 📋 **Consultas** | Registro de peso, talla, IMC, composición corporal y medidas antropométricas |
-| 🥗 **Planes alimenticios** | Constructor visual de planes con cálculo automático de macros por comida |
-| ✨ **Plantillas** | Planes reutilizables que se asignan a pacientes con un clic |
-| 🍎 **Alimentos** | Base de datos global + alimentos personalizados por nutriólogo |
-| 📅 **Citas** | Calendario interactivo con vistas por día, semana y mes |
-| 🖨️ **Impresión** | Planes listos para imprimir o exportar como PDF |
-| 📊 **Dashboard** | Resumen diario, estadísticas y acceso rápido a lo más relevante |
+| Módulo                     | Descripción                                                                  |
+| -------------------------- | ---------------------------------------------------------------------------- |
+| 🧑‍⚕️ **Pacientes**           | Expediente digital completo con historial, datos de contacto y objetivos     |
+| 📋 **Consultas**           | Registro de peso, talla, IMC, composición corporal y medidas antropométricas |
+| 🥗 **Planes alimenticios** | Constructor visual de planes con cálculo automático de macros por comida     |
+| ✨ **Plantillas**          | Planes reutilizables que se asignan a pacientes con un clic                  |
+| 🍎 **Alimentos**           | Base de datos global + alimentos personalizados por nutriólogo               |
+| 📅 **Citas**               | Calendario interactivo con vistas por día, semana y mes                      |
+| 🖨️ **Impresión**           | Planes listos para imprimir o exportar como PDF                              |
+| 📊 **Dashboard**           | Resumen diario, estadísticas y acceso rápido a lo más relevante              |
 
 <br />
 
