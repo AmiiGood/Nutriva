@@ -10,7 +10,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nuvita",
+  title: "Nutriva",
   description: "Sistema para nutriólogos",
 };
 
